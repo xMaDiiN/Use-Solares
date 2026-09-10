@@ -52,7 +52,7 @@ Apresenta uma visão direcionada à base de clientes:
 - Top 10 — Faturamento por Cidade
 - Top 10 Clientes por Faturamento
 
-![Página 2 - Use Solares](screenshots/Pagina%202%20-%20Use%20Solares.png)
+ ![Página 2 - Use Solares](screenshots/Pagina%202%20-%20Use%20Solares.png)
 
 ## 📌 Principais indicadores
 Indicador	Resultado
