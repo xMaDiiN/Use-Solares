@@ -56,11 +56,11 @@ Apresenta uma visão direcionada à base de clientes:
 
 ## 📌 Principais indicadores
 ### | Indicador |	Resultado |
-| Faturamento |	**R$ 376,04 mil** |
-| Pedidos |	**500** |
-| Quantidade vendida |	**2.500** |
-| Ticket Médio |	**R$ 752,08** |
-| Clientes	| **30** |
+- | Faturamento |	**R$ 376,04 mil** |
+- | Pedidos |	**500** |
+- | Quantidade vendida |	**2.500** |
+- | Ticket Médio |	**R$ 752,08** |
+- | Clientes	| **30** |
 
 ## 🎯 Objetivo profissional
 Este projeto faz parte do meu portfólio de Análise de Dados, demonstrando a utilização de SQL para extração e organização das informações e Power BI para análise e visualização dos dados.
