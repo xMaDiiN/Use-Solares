@@ -56,7 +56,6 @@ Apresenta uma visão direcionada à base de clientes:
 
 ## 📌 Principais indicadores
 ### | Indicador |	Resultado |
-|---|---:|
 | Faturamento |	**R$ 376,04 mil** |
 | Pedidos |	**500** |
 | Quantidade vendida |	**2.500** |
