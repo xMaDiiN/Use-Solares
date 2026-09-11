@@ -30,7 +30,7 @@ Entre as informações analisadas estão:
 ## 📈 Dashboard
 O dashboard foi desenvolvido no Power BI a partir das extrações e Views criadas no SQL Server.
 
-Página 1 — Visão Geral
+## Página 1 — Visão Geral 
 Apresenta os principais indicadores comerciais, incluindo:
 - Faturamento Total
 - Total de Pedidos
@@ -42,7 +42,7 @@ Apresenta os principais indicadores comerciais, incluindo:
 
  ![Página 1 - Use Solares](screenshots/Pagina%201%20-%20Use%20Solares.png)
 
-Página 2 — Clientes e Localização
+## Página 2 — Clientes e Localização
 Apresenta uma visão direcionada à base de clientes:
 
 - Total de Clientes
