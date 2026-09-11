@@ -18,8 +18,7 @@ GO
    1. VENDAS POR MÊS
    ================================================================ */
 
-SELECT
-MONTH(o.order_date) AS [Meses],
+SELECT MONTH(o.order_date) AS [Meses],
 COUNT(DISTINCT o.order_id) AS [Total Pedidos],
 SUM(oi.quantity * oi.unit_price) AS [Faturamento Total]
 FROM Orders AS o
